@@ -1,0 +1,26 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Homework 11",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awarmath/Note-Taker.git"
+  },
+  "keywords": [],
+  "author": "awarmath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awarmath/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/awarmath/Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
