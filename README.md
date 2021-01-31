@@ -15,11 +15,11 @@ Note Taker is an application to be used to write and save notes. The notes can b
 
 Once you land on the domain, the user will click "Get Started" on the homepage to enter the application. See below.
 
-![Homepage](assets/homepage.png)
+![Homepage](public/assets/homepage.png)
 
 Once you land on the /notes page you can click on 'Note Title' to enter the title of your note. Next you can click 'Note Text' to enter the details of your note. Once you have finished you will click the 'Save' button.
 
-![/notes](assets/note.png)
+![/notes](public/assets/note.png)
 
 ## Questions?
   
